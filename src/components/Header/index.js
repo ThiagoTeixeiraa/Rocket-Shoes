@@ -8,6 +8,8 @@ import { Container, Cart } from './styles';
 
 import logo from '../../assets/images/logo.svg';
 
+console.tron.log();
+
 function Header({ cartSize }) {
   return (
     <Container>
